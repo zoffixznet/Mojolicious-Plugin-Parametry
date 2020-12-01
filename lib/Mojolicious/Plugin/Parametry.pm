@@ -100,7 +100,7 @@ helper will also trim leading and trailing whitespace.
 B<CAVEATS:> this helper can be used to access only params named with valid
 Perl method names and no support for other names is currently planned.
 
-=head2 C<P>
+=head2 C<PP>
 
     $c->PP
 
